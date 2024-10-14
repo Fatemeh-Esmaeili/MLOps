@@ -1,1 +1,2 @@
-
+def data(name):
+  ask
